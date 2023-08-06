@@ -2,13 +2,13 @@
 
 
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Общественные",Первый канал
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Основные",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/984.png" group-title="Общественные",Россия 1 HD
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/984.png" group-title="Основные",Россия 1 HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Развлекательные",СТС
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Основные",СТС
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/353.png" group-title="Развлекательные",ТНТ
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/353.png" group-title="Основные",ТНТ
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Общественные",НТВ HD
