@@ -1,0 +1,1295 @@
+#EXTM3U ext_archive="&utcstart={start_time}&utcend={end_time}" archive_day="3"
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/1.png",Первый канал 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/1.png",Первый канал Евразия
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/rossia1.png",Россия 1 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" group-title="Общие",Матч!
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://dvb.by/sources/logos/2702s.png" tvg-id="rossia-24",Россия 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/ntv.png" tvg-name="1395.216",НТВ 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/ntv.png" tvg-name="1395.216",НТВ HD
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-id="tvcentr",ТВ Центр 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/5.png" tvg-id="5kanal-ru",5 канал  
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/zvezda.png" tvg-id="zvezda",Звезда 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/zvezda.png" tvg-id="zvezda",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/zvezda.png" tvg-id="zvezda-plus",Звезда Плюс HD
+http://stv.mediacdn.ru/live/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-id="otr",ОТР 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://images.vfl.ru/ii/1612467996/743ac094/33219283.png", Суббота! 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/ren.png" tvg-id="rentv",РЕН ТВ 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-id="tnt",ТНТ 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-id="sts",СТС 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-id="sts-love",СТС Love 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/5nitca.png" tvg-id="piatnica",Пятница! 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-id="tnt4",ТНТ4 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-id="tnt4",ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/tv3.png" tvg-id="tv3-ru",ТВ 3 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/domashnii.png" tvg-id="domashny",Домашний 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1540215747749.png",Ю 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/kultura.png" tvg-id="kultura",Россия К 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/mir.png" ,Мир 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/mir.png" ,Мир HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/mir.png" ,Мир 24 HD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="https://static.mts.ru/dpc_upload/contents/482/150x150/epg678.png" tvg-id="pervy-yaroslavsky",Первый Ярославский 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="https://img.hhcdn.ru/employer-logo/3746368.png" ,Городской телеканал 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="http://dvb.by/sources/logos/1041s.png" tvg-id="che",Че! 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Общие" tvg-logo="https://dvb.by/sources/logos/1217s.png",Спас
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=3#parser
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/1.png" tvg-shift=6 group-title="Архив",Первый канал (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD//variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/1.png" tvg-shift=5 group-title="Архив",Первый канал (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD//variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/1.png" tvg-shift=4 group-title="Архив",Первый канал (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/1.png" tvg-shift=3 group-title="Архив",Первый канал (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/1.png" tvg-shift=2 group-title="Архив",Первый канал (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/1.png" tvg-shift=1 group-title="Архив",Первый канал (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-name="1693.216" tvg-logo="http://bezbe.my1.ru/logo/1.png" tvg-shift=-2 group-title="Архив",Первый канал (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1693.216" tvg-logo="http://bezbe.my1.ru/logo/1.png" tvg-shift=-4 group-title="Архив",Первый канал (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1693.216" tvg-logo="http://bezbe.my1.ru/logo/1.png" tvg-shift=-6 group-title="Архив",Первый канал (+6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="1693.216" tvg-logo="http://bezbe.my1.ru/logo/1.png" tvg-shift=-8 group-title="Архив",Первый канал (+8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/rossia1.png" tvg-shift=6 group-title="Архив",Россия 1 (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/rossia1.png" tvg-shift=5 group-title="Архив",Россия 1 (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/rossia1.png" tvg-shift=4 group-title="Архив",Россия 1 (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/rossia1.png" tvg-shift=3 group-title="Архив",Россия 1 (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/rossia1.png" tvg-shift=2 group-title="Архив",Россия 1 (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/rossia1.png" tvg-shift=1 group-title="Архив",Россия 1 (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-name="1666.216" tvg-logo="http://bezbe.my1.ru/logo/rossia1.png" tvg-shift=-2 group-title="Архив",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1666.216" tvg-logo="http://bezbe.my1.ru/logo/rossia1.png" tvg-shift=-4 group-title="Архив",Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1666.216" tvg-logo="http://bezbe.my1.ru/logo/rossia1.png" tvg-shift=-6 group-title="Архив",Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="1666.216" tvg-logo="http://bezbe.my1.ru/logo/rossia1.png" tvg-shift=-9 group-title="Архив",Россия 1 (+9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ntv.png" tvg-shift=6 group-title="Архив",НТВ (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ntv.png" tvg-shift=5 group-title="Архив",НТВ (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ntv.png" tvg-shift=4 group-title="Архив",НТВ (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ntv.png" tvg-shift=3 group-title="Архив",НТВ (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ntv.png" tvg-shift=2 group-title="Архив",НТВ (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ntv.png" tvg-shift=1 group-title="Архив",НТВ (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ntv.png" tvg-shift= group-title="Архив",НТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="1395.216" tvg-logo="http://bezbe.my1.ru/logo/ntv.png" tvg-shift=-2 group-title="Архив",НТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1395.216" tvg-logo="http://bezbe.my1.ru/logo/ntv.png" tvg-shift=-4 group-title="Архив",НТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1395.216" tvg-logo="http://bezbe.my1.ru/logo/ntv.png" tvg-shift=-7 group-title="Архив",НТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ren.png" tvg-shift=6 group-title="Архив",РЕН ТВ (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ren.png" tvg-shift=5 group-title="Архив",РЕН ТВ (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ren.png" tvg-shift=4 group-title="Архив",РЕН ТВ (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ren.png" tvg-shift=3 group-title="Архив",РЕН ТВ (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ren.png" tvg-shift=2 group-title="Архив",РЕН ТВ (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ren.png" tvg-shift=1 group-title="Архив",РЕН ТВ (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/ren.png" tvg-shift= group-title="Архив",РЕН ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="1148.216" tvg-logo="http://bezbe.my1.ru/logo/ren.png" tvg-shift=-2 group-title="Архив",РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1148.216" tvg-logo="http://bezbe.my1.ru/logo/ren.png" tvg-shift=-4 group-title="Архив",РЕН ТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1148.216" tvg-logo="http://bezbe.my1.ru/logo/ren.png" tvg-shift=-7 group-title="Архив",РЕН ТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=1 group-title="Архив",Матч! (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=-2 group-title="Архив",Матч! (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=3 group-title="Архив",Матч! (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=4 group-title="Архив",Матч! (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=5 group-title="Архив",Матч! (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=6 group-title="Архив",Матч! (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=7 group-title="Архив",Матч! (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=8 group-title="Архив",Матч! (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=9 group-title="Архив",Матч! (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" tvg-shift=10 group-title="Архив",Матч! (-10)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&offset=-36000
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5.png" tvg-shift=6 group-title="Архив",Пятый канал (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5.png" tvg-shift=5 group-title="Архив",Пятый канал (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5.png" tvg-shift=4 group-title="Архив",Пятый канал (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5.png" tvg-shift=3 group-title="Архив",Пятый канал (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5.png" tvg-shift=2 group-title="Архив",Пятый канал (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5.png" tvg-shift=1 group-title="Архив",Пятый канал (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5.png" tvg-shift= group-title="Архив",Пятый канал
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="963.216" tvg-logo="http://bezbe.my1.ru/logo/5.png" tvg-shift=-2 group-title="Архив",Пятый канал (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="963.216" tvg-logo="http://bezbe.my1.ru/logo/5.png" tvg-shift=-4 group-title="Архив",Пятый канал (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="963.216" tvg-logo="http://bezbe.my1.ru/logo/5.png" tvg-shift=-7 group-title="Архив",Пятый канал (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-shift=6 group-title="Архив",Карусель (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-shift=5 group-title="Архив",Карусель (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-shift=4 group-title="Архив",Карусель (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-shift=3 group-title="Архив",Карусель (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-shift=2 group-title="Архив",Карусель (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-shift=1 group-title="Архив",Карусель (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-shift= group-title="Архив",Карусель
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1162.216" tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-shift=-2 group-title="Архив",Карусель (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1162.216" tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-shift=-4 group-title="Архив",Карусель (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="1162.216" tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-shift=-7 group-title="Архив",Карусель (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-name="3239.216" tvg-logo="http://bezbe.my1.ru/logo/disney.png" tvg-shift=6 group-title="Архив",Солнце (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-name="3239.216" tvg-logo="http://bezbe.my1.ru/logo/disney.png" tvg-shift=5 group-title="Архив",Солнце (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-name="3239.216" tvg-logo="http://bezbe.my1.ru/logo/disney.png" tvg-shift=4 group-title="Архив",Солнце (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-name="3239.216" tvg-logo="http://bezbe.my1.ru/logo/disney.png" tvg-shift=3 group-title="Архив",Солнце (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-name="3239.216" tvg-logo="http://bezbe.my1.ru/logo/disney.png" tvg-shift=2 group-title="Архив",Солнце (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-name="3239.216" tvg-logo="http://bezbe.my1.ru/logo/disney.png" tvg-shift=1 group-title="Архив",Солнце (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-name="3239.216" tvg-logo="http://bezbe.my1.ru/logo/disney.png" tvg-shift= group-title="Архив",Солнце
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="3239.216" tvg-logo="http://bezbe.my1.ru/logo/disney.png" tvg-shift=-2 group-title="Архив",Солнце (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="3239.216" tvg-logo="http://bezbe.my1.ru/logo/disney.png" tvg-shift=-4 group-title="Архив",Солнце (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="3239.216" tvg-logo="http://bezbe.my1.ru/logo/disney.png" tvg-shift=-7 group-title="Архив",Солнце (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/2x2.png" tvg-shift=6 group-title="Архив",2x2 (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/2x2.png" tvg-shift=5 group-title="Архив",2x2 (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/2x2.png" tvg-shift=4 group-title="Архив",2x2 (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/2x2.png" tvg-shift=3 group-title="Архив",2x2 (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/2x2.png" tvg-shift=2 group-title="Архив",2x2 (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/2x2.png" tvg-shift=1 group-title="Архив",2x2 (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/2x2.png" tvg-shift= group-title="Архив",2x2
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8??version=3#parser
+#EXTINF:-1 tvg-name="1049.216" tvg-logo="http://bezbe.my1.ru/logo/2x2.png" tvg-shift=-2 group-title="Архив",2x2 (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1049.216" tvg-logo="http://bezbe.my1.ru/logo/2x2.png" tvg-shift=-4 group-title="Архив",2x2 (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1049.216" tvg-logo="http://bezbe.my1.ru/logo/2x2.png" tvg-shift=-7 group-title="Архив",2x2 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=6 group-title="Архив",СТС (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=5 group-title="Архив",СТС (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=4 group-title="Архив",СТС (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=3 group-title="Архив",СТС (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=2 group-title="Архив",СТС (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=1 group-title="Архив",СТС (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift= group-title="Архив",СТС
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="1112.216" tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=-2 group-title="Архив",СТС (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1112.216" tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=-4 group-title="Архив",СТС (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1112.216" tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=-7 group-title="Архив",СТС (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=6 group-title="Архив",СТС Love (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=5 group-title="Архив",СТС Love (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=4 group-title="Архив",СТС Love (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=3 group-title="Архив",СТС Love (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=2 group-title="Архив",СТС Love (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=1 group-title="Архив",СТС Love (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift= group-title="Архив",СТС Love
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="1800.216" tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=-2 group-title="Архив",СТС Love (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1800.216" tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=-4 group-title="Архив",СТС Love (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1800.216" tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-shift=-7 group-title="Архив",СТС Love (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=6 group-title="Архив",ТНТ (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=5 group-title="Архив",ТНТ (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=4 group-title="Архив",ТНТ (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=3 group-title="Архив",ТНТ (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=2 group-title="Архив",ТНТ (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=1 group-title="Архив",ТНТ (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift= group-title="Архив",ТНТ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="2287.216" tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=-2 group-title="Архив",ТНТ (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="2287.216" tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=-4 group-title="Архив",ТНТ (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="2287.216" tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=-7 group-title="Архив",ТНТ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=6 group-title="Архив",ТНТ4 (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=5 group-title="Архив",ТНТ4 (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=4 group-title="Архив",ТНТ4 (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=3 group-title="Архив",ТНТ4 (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=2 group-title="Архив",ТНТ4 (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=1 group-title="Архив",ТНТ4 (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift= group-title="Архив",ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="2097.216" tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=-2 group-title="Архив",ТНТ4 (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="2097.216" tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=-4 group-title="Архив",ТНТ4 (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="2097.216" tvg-logo="http://bezbe.my1.ru/logo/tnt.png" tvg-shift=-7 group-title="Архив",ТНТ4 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1612467996/743ac094/33219283.png" tvg-shift=6 group-title="Архив", Суббота! (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1612467996/743ac094/33219283.png" tvg-shift=5 group-title="Архив", Суббота! (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1612467996/743ac094/33219283.png" tvg-shift=4 group-title="Архив", Суббота! (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1612467996/743ac094/33219283.png" tvg-shift=3 group-title="Архив", Суббота! (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1612467996/743ac094/33219283.png" tvg-shift=2 group-title="Архив", Суббота! (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1612467996/743ac094/33219283.png" tvg-shift=1 group-title="Архив", Суббота! (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1612467996/743ac094/33219283.png" tvg-shift= group-title="Архив", Суббота!
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="2338.216" tvg-logo="http://images.vfl.ru/ii/1612467996/743ac094/33219283.png" tvg-shift=-2 group-title="Архив", Суббота! (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="2338.216" tvg-logo="http://images.vfl.ru/ii/1612467996/743ac094/33219283.png" tvg-shift=-4 group-title="Архив", Суббота! (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="2338.216" tvg-logo="http://images.vfl.ru/ii/1612467996/743ac094/33219283.png" tvg-shift=-7 group-title="Архив", Суббота! (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv3.png" tvg-shift=6 group-title="Архив",ТВ3 (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv3.png" tvg-shift=5 group-title="Архив",ТВ3 (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv3.png" tvg-shift=4 group-title="Архив",ТВ3 (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv3.png" tvg-shift=3 group-title="Архив",ТВ3 (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv3.png" tvg-shift=2 group-title="Архив",ТВ3 (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv3.png" tvg-shift=1 group-title="Архив",ТВ3 (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv3.png" tvg-shift=2 group-title="Архив",ТВ3
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="1091.216" tvg-logo="http://bezbe.my1.ru/logo/tv3.png" tvg-shift=-2 group-title="Архив",ТВ3 (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1091.216" tvg-logo="http://bezbe.my1.ru/logo/tv3.png" tvg-shift=-4 group-title="Архив",ТВ3 (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1091.216" tvg-logo="http://bezbe.my1.ru/logo/tv3.png" tvg-shift=-7 group-title="Архив",ТВ3 (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-shift=6 group-title="Архив",ТВЦ (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-shift=5 group-title="Архив",ТВЦ (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-shift=4 group-title="Архив",ТВЦ (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-shift=3 group-title="Архив",ТВЦ (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-shift=2 group-title="Архив",ТВЦ (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-shift=1 group-title="Архив",ТВЦ (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-shift= group-title="Архив",ТВЦ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="948.216" tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-shift=-2 group-title="Архив",ТВЦ (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="948.216" tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-shift=-4 group-title="Архив",ТВЦ (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="948.216" tvg-logo="http://bezbe.my1.ru/logo/tv_centr.png" tvg-shift=-7 group-title="Архив",ТВЦ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/zvezda.png" tvg-shift=6 group-title="Архив",Звезда (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/zvezda.png" tvg-shift=5 group-title="Архив",Звезда (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/zvezda.png" tvg-shift=4 group-title="Архив",Звезда (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/zvezda.png" tvg-shift=3 group-title="Архив",Звезда (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/zvezda.png" tvg-shift=2 group-title="Архив",Звезда (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/zvezda.png" tvg-shift=1 group-title="Архив",Звезда (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/zvezda.png" tvg-shift= group-title="Архив",Звезда
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="986.216" tvg-logo="http://bezbe.my1.ru/logo/zvezda.png" tvg-shift=-2 group-title="Архив",Звезда (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="986.216" tvg-logo="http://bezbe.my1.ru/logo/zvezda.png" tvg-shift=-4 group-title="Архив",Звезда (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="986.216" tvg-logo="http://bezbe.my1.ru/logo/zvezda.png" tvg-shift=-7 group-title="Архив",Звезда (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mir.png" tvg-shift=6 group-title="Архив",МИР (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mir.png" tvg-shift=5 group-title="Архив",МИР (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mir.png" tvg-shift=4 group-title="Архив",МИР (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mir.png" tvg-shift=3 group-title="Архив",МИР (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mir.png" tvg-shift=2 group-title="Архив",МИР (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mir.png" tvg-shift=1 group-title="Архив",МИР (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mir.png" tvg-shift= group-title="Архив",МИР
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="717.216" tvg-logo="http://bezbe.my1.ru/logo/mir.png" tvg-shift=-2 group-title="Архив",МИР (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="717.216" tvg-logo="http://bezbe.my1.ru/logo/mir.png" tvg-shift=-4 group-title="Архив",МИР (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="717.216" tvg-logo="http://bezbe.my1.ru/logo/mir.png" tvg-shift=-7 group-title="Архив",МИР (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5nitca.png" tvg-shift=6 group-title="Архив",Пятница! (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5nitca.png" tvg-shift=5 group-title="Архив",Пятница! (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5nitca.png" tvg-shift=4 group-title="Архив",Пятница! (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5nitca.png" tvg-shift=3 group-title="Архив",Пятница! (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5nitca.png" tvg-shift=2 group-title="Архив",Пятница! (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5nitca.png" tvg-shift=1 group-title="Архив",Пятница! (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/5nitca.png" tvg-shift= group-title="Архив",Пятница!
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="1671.216" tvg-logo="http://bezbe.my1.ru/logo/5nitca.png" tvg-shift=-2 group-title="Архив",Пятница! (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1671.216" tvg-logo="http://bezbe.my1.ru/logo/5nitca.png" tvg-shift=-4 group-title="Архив",Пятница! (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1671.216" tvg-logo="http://bezbe.my1.ru/logo/5nitca.png" tvg-shift=-7 group-title="Архив",Пятница! (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/domashnii.png" tvg-shift=6 group-title="Архив",Домашний (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/domashnii.png" tvg-shift=5 group-title="Архив",Домашний (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/domashnii.png" tvg-shift=4 group-title="Архив",Домашний (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/domashnii.png" tvg-shift=3 group-title="Архив",Домашний (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/domashnii.png" tvg-shift=2 group-title="Архив",Домашний (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/domashnii.png" tvg-shift=1 group-title="Архив",Домашний (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/domashnii.png" tvg-shift= group-title="Архив",Домашний
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="1051.216" tvg-logo="http://bezbe.my1.ru/logo/domashnii.png" tvg-shift=-2 group-title="Архив",Домашний (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1051.216" tvg-logo="http://bezbe.my1.ru/logo/domashnii.png" tvg-shift=-4 group-title="Архив",Домашний (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1051.216" tvg-logo="http://bezbe.my1.ru/logo/domashnii.png" tvg-shift=-7 group-title="Архив",Домашний (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/kultura.png" tvg-shift=6 group-title="Архив",Россия К (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/kultura.png" tvg-shift=5 group-title="Архив",Россия К (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/kultura.png" tvg-shift=4 group-title="Архив",Россия К (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/kultura.png" tvg-shift=3 group-title="Архив",Россия К (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/kultura.png" tvg-shift=2 group-title="Архив",Россия К (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/kultura.png" tvg-shift=1 group-title="Архив",Россия К (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/kultura.png" tvg-shift= group-title="Архив",Россия К
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="1169.216" tvg-logo="http://bezbe.my1.ru/logo/kultura.png" tvg-shift=-2 group-title="Архив",Россия К (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1169.216" tvg-logo="http://bezbe.my1.ru/logo/kultura.png" tvg-shift=-4 group-title="Архив",Россия К (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1169.216" tvg-logo="http://bezbe.my1.ru/logo/kultura.png" tvg-shift=-7 group-title="Архив",Россия К (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://dvb.by/sources/logos/1041s.png" tvg-shift=6 group-title="Архив",Че! (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://dvb.by/sources/logos/1041s.png" tvg-shift=5 group-title="Архив",Че! (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://dvb.by/sources/logos/1041s.png" tvg-shift=4 group-title="Архив",Че! (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://dvb.by/sources/logos/1041s.png" tvg-shift=3 group-title="Архив",Че! (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://dvb.by/sources/logos/1041s.png" tvg-shift=2 group-title="Архив",Че! (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://dvb.by/sources/logos/1041s.png" tvg-shift=1 group-title="Архив",Че! (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://dvb.by/sources/logos/1041s.png" tvg-shift= group-title="Архив",Че!
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="2068.216" tvg-logo="http://dvb.by/sources/logos/1041s.png" tvg-shift=-2 group-title="Архив",Че! (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="2068.216" tvg-logo="http://dvb.by/sources/logos/1041s.png" tvg-shift=-4 group-title="Архив",Че! (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="2068.216" tvg-logo="http://dvb.by/sources/logos/1041s.png" tvg-shift=-7 group-title="Архив",Че! (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mtv.png" tvg-shift=6 group-title="Архив",МУЗ ТВ (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mtv.png" tvg-shift=5 group-title="Архив",МУЗ ТВ (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mtv.png" tvg-shift=4 group-title="Архив",МУЗ ТВ (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mtv.png" tvg-shift=3 group-title="Архив",МУЗ ТВ (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mtv.png" tvg-shift=2 group-title="Архив",МУЗ ТВ (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mtv.png" tvg-shift=1 group-title="Архив",МУЗ ТВ (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/mtv.png" tvg-shift= group-title="Архив",МУЗ ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="1111.216" tvg-logo="http://bezbe.my1.ru/logo/mtv.png" tvg-shift=-2 group-title="Архив",МУЗ ТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1111.216" tvg-logo="http://bezbe.my1.ru/logo/mtv.png" tvg-shift=-4 group-title="Архив",МУЗ ТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="1111.216" tvg-logo="http://bezbe.my1.ru/logo/mtv.png" tvg-shift=-7 group-title="Архив",МУЗ ТВ (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/u.png" tvg-shift=6 group-title="Архив",Ю (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/u.png" tvg-shift=5 group-title="Архив",Ю (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/u.png" tvg-shift=4 group-title="Архив",Ю (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/u.png" tvg-shift=3 group-title="Архив",Ю (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/u.png" tvg-shift=2 group-title="Архив",Ю (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/u.png" tvg-shift=1 group-title="Архив",Ю (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/u.png" tvg-shift= group-title="Архив",Ю
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="968.216" tvg-logo="http://bezbe.my1.ru/logo/u.png" tvg-shift=-2 group-title="Архив",Ю (+2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="968.216" tvg-logo="http://bezbe.my1.ru/logo/u.png" tvg-shift=-4 group-title="Архив",Ю (+4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="968.216" tvg-logo="http://bezbe.my1.ru/logo/u.png" tvg-shift=-7 group-title="Архив",Ю (+7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-shift= group-title="Архив",ОТР
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-shift=1 group-title="Архив",ОТР (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-shift=2 group-title="Архив",ОТР (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+ http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-shift=3 group-title="Архив",ОТР (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-shift=4 group-title="Архив",ОТР (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-shift=5 group-title="Архив",ОТР (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-shift=6 group-title="Архив",ОТР (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-shift=7 group-title="Архив",ОТР (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-shift=8 group-title="Архив",ОТР (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/logo/otr.png" tvg-shift=9 group-title="Архив",ОТР (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-32400
+
+#EXTINF:-1 group-title="Архив" tvg-name="1764" tvg-shift= tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/playlist.m3u8?version=3#parser
+#EXTINF:-1 group-title="Архив" tvg-name="1764" tvg-shift=1 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 group-title="Архив" tvg-name="1764" tvg-shift=2 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 group-title="Архив" tvg-name="1764" tvg-shift=3 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 group-title="Архив" tvg-name="1764" tvg-shift=4 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 group-title="Архив" tvg-name="1764" tvg-shift=5 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 group-title="Архив" tvg-name="1764" tvg-shift=6 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 group-title="Архив" tvg-name="1764" tvg-shift=7 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 group-title="Архив" tvg-name="1764" tvg-shift=8 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 group-title="Архив" tvg-name="1764" tvg-shift=9 tvg-logo="http://images.vfl.ru/ii/1646453937/5c72cb4b/38329651.png",Russian Extreme (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-
+
+#EXTINF:-1 tvg-name="1844"group-title="Архив" tvg-name="" tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/playlist.m3u8?version=3#parser
+#EXTINF:-1 tvg-name="1844"group-title="Архив" tvg-name="" tvg-shift=1 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema (-1)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-name="1844"group-title="Архив" tvg-name="" tvg-shift=2 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema (-2)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 tvg-name="1844"group-title="Архив" tvg-name="" tvg-shift=3 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema (-3)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 tvg-name="1844"group-title="Архив" tvg-name="" tvg-shift=4 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema (-4)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 tvg-name="1844"group-title="Архив" tvg-name="" tvg-shift=5 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema (-5)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 tvg-name="1844"group-title="Архив" tvg-name="" tvg-shift=6 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema (-6)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 tvg-name="1844"group-title="Архив" tvg-name="" tvg-shift=7 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema (-7)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 tvg-name="1844"group-title="Архив" tvg-name="" tvg-shift=8 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema (-8)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 tvg-name="1844"group-title="Архив" tvg-name="" tvg-shift=9 tvg-logo="http://static.kinoafisha.info/upload/694848128454.jpg",Ultra Cinema (-9)
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/variant.m3u8?version=2&offset=-32400
+
+#EXTINF:-1 group-title="Спорт" tvg-name="905.216" tvg-logo="https://dvb.by/sources/logos/1613s.png",KHL
+http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1617773484/c1d1fcc8/33978059.jpg" group-title="Спорт",Матч! HD
+http://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-name="1590.216" tvg-logo="https://dvb.by/sources/logos/1613s.png",KHL Prime 
+http://bl.uma.media/live/171748/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1943s.png"group-title="Спорт", Матч! Боец
+http://31.148.48.15:80/Match_Boec/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1943s.png"group-title="Спорт" ,M1 Global
+http://cdn-lb.iptv2022.com/p/70VMP7a3hoCnSMNtHwyAGg,1696885216/streaming/m1global/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3591s.png"group-title="Спорт",Матч! Игра
+http://bl.uma.media/live/154036/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3591s.png"group-title="Спорт",Матч! Страна
+http://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2312s.png"group-title="Спорт", МАТЧ! Арена
+http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2307s.png"group-title="Спорт" ,Матч! Планета
+http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3260s.png"group-title="Спорт" ,Матч! Премьер
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+
+#EXTINF:-1 tvg-name="3206.216"group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2961s.png",Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3215s.png",Старт
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3215s.png",Unbeaten
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="3236.216"group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/1745s.png",Старт Триумф
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 tvg-name="1761.216" group-title="Спорт"tvg-logo="http://bezbe.my1.ru/poster/bl.png",Беларусь 5 HD
+http://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3215s.png",Tennis channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-logo="https://crdtv.net/b/templates/ottch/konny-mir.png"group-title="Спорт",Конный мир HD
+https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2116s.png"group-title="Спорт",Матч! Футбол 1 HD
+http://cdn-lb.iptv2022.com/p/uiTz7dggh6rQgy9-N1uVQw,1701896418/streaming/footbal1hd/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2116s.png"group-title="Спорт",Матч! Футбол 2 HD
+http://cdn-lb.iptv2022.com/p/UQ0ypbjj8qPdIYRHXpUnGQ,1701896418/streaming/footbal2hd/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2116s.png"group-title="Спорт", МАТЧ! Футбол 3 HD
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3942s.png",EDGEsport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2956s.png",Swerve Sports
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2961s.png",IMPACT Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 group-title="Детские" tvg-logo="http://images.vfl.ru/ii/1646029259/c14fb4fd/38248170.png" tvg-id="2x2",2х2 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Детские" tvg-logo="http://bezbe.my1.ru/logo/karusel.png" tvg-id="karusel",Карусель 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Детские" tvg-logo="http://bezbe.my1.ru/logo/disney.png" tvg-id="disney",Солнце 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8?version=3#parser
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/poster/smot.png" group-title="Детские", Детям
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/poster/smot.png" group-title="Детские", Детям HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/1055s.png", Мама
+http://31.148.48.15:80/Mama/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/6870s.png", МультСезон
+http://cdn-lb.iptv2022.com/p/RdznzVgM1ifqZb8HlQw6ng,1616830737/streaming/multsezon/324/1/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/1391s.png",Baby Time
+http://cdn-lb.iptv2022.com/p/iBKmDHEVgOmwzgZf4aa1Rg,1672887638/streaming/baby_time/324/1/index.m3u8
+
+#EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/2871s.png",Смайлик ТВ
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/3855s.png",Шаян ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+https://s45177.cdn.ngenix.net/hls/CH_R03_SHAYNTV/variant.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/1574s.png",Балапан
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/3006s.png",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/3562s.png",SC TV 
+https://hls.goodgame.ru/hls/61358.m3u8?|User-agent=rostik_tv
+#EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/3562s.png",КнопкаTV 
+https://api.alpaca.t62a.com/hls/9116/stream1.m3u8
+#EXTINF:-1 group-title="Детские"tvg-logo="https://dvb.by/sources/logos/1036s.png",Детское Кино 
+http://cdn-lb.iptv2022.com/p/S0OlIDXGPkYoFkPKP4R8BA,1674888270/streaming/det_kino/324/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские"tvg-logo="https://dvb.by/sources/logos/1037s.png", Детский Мир
+http://cdn-lb.iptv2022.com/p/JBaGKLGXaiCwVyGtGgWung,1679163357/streaming/detmir/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Детские"tvg-logo="https://dvb.by/sources/logos/3923s.png",Пингвин ЛОЛО
+http://cdn-lb.iptv2022.com/p/-rQJLeCWiRAa76M6nNc5pQ,1672938535/streaming/pingvin/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Детские"tvg-logo="https://dvb.by/sources/logos/1926s.png",Тип-Топ
+http://cdn-lb.iptv2022.com/p/90M_XZQfumGckrIqw5rFWg,1688590815/streaming/tiptop/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Детские"tvg-logo="https://dvb.by/sources/logos/1926s.png",Тип-Топ HD
+http://cdn-lb.iptv2022.com/p/90M_XZQfumGckrIqw5rFWg,1688590815/streaming/tiptop/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Детские"tvg-logo="https://dvb.by/sources/logos/1926s.png",Лёва HD
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 group-title="Детские"tvg-logo="https://dvb.by/sources/logos/3561s.png",Чижик
+http://cdn-lb.iptv2022.com/p/03eVIQTZGmihKnOccs-dXw,1688504415/streaming/chizhikhd/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Детские"tvg-logo="https://dvb.by/sources/logos/3561s.png",Чижик HD
+http://cdn-lb.iptv2022.com/p/03eVIQTZGmihKnOccs-dXw,1688504415/streaming/chizhikhd/324/1/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Детские"tvg-logo="https://dvb.by/sources/logos/3849s.png",Супергерои
+http://cdn-lb.iptv2022.com/p/d0Hb_UuxtY5kvCTuHT9iMQ,1688590814/streaming/malish/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1214s.png"group-title="Детские",Радость моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3164s.png"group-title="Детские",В гостях у сказки
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1tvg-logo="https://dvb.by/sources/logos/3492s.png" group-title="Детские",Сказки Зайки
+http://cdn-lb.iptv2022.com/p/JCO-85ZwP8a2Xj7xVrXt3A,1677498229/streaming/zaj/324/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-logo="https://dvb.by/sources/logos/3229s.png" group-title="Детские",О!
+http://31.148.48.15:80/O/index.m3u8?token=test
+#EXTINF:-1 group-title="Детские"tvg-logo="https://dvb.by/sources/logos/2132s.png",Anime Kids
+http://cdn-lb.iptv2022.com/p/XdwQwmNl68A_8xP6R1REIw,1674058896/streaming/anime_kids/324/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1tvg-logo="https://dvb.by/sources/logos/6870s.png" group-title="Детские",Уникум
+http://cdn-lb.iptv2022.com/p/5gyw6elL3Jk-c9BZDfAz_A,1688590814/streaming/detskiy/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3561s.png"group-title="Детские",Рыжий
+http://cdn-lb.iptv2022.com/p/UceS_Jq5f_erJZtK_7By2Q,1688590814/streaming/ginger-surd/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1tvg-logo="https://dvb.by/sources/logos/1916s.png" group-title="Детские", Мульт
+http://31.148.48.15:80/Mult/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Разные" tvg-logo="https://dvb.by/sources/logos/3108s.png",8 канал
+https://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_OTT8KANAL/variant.m3u8
+#EXTINF:-1 group-title="Разные" tvg-logo="https://dvb.by/sources/logos/1688s.png",Мир Белогорья
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BELG_MIR_BLG/variant.m3u8
+#EXTINF:-1 group-title="Разные" tvg-logo="http://images.vfl.ru/ii/1635782919/b6d5c6d2/36504572.jpg",E tv
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://images.vfl.ru/ii/1645975240/58576c63/38241751.png" group-title="Разные" ,ТРО
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Разные" tvg-logo="https://dvb.by/sources/logos/3290s.png",ОРТ-Планета
+https://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
+#EXTINF:-1 group-title="Разные" tvg-logo="https://dvb.by/sources/logos/3290s.png",Тномер
+https://video.jewelleria.de/hlslive/test/tnomer.m3u8
+#EXTINF:-1 group-title="Разные" tvg-logo="https://dvb.by/sources/logos/1460s.png",Эхо ТВ 24
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+#EXTINF:-1 group-title="Разные" ,Рыбинск 40
+http://a3569458162-rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/playlist.m3u8
+#EXTINF:-1 group-title="Разные",Москва 24
+http://strm.yandex.ru/kal/msk24_n/msk24_n0.m3u8
+#EXTINF:-1 group-title="Разные",Москва Доверие
+http://a787200748-rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/playlist.m3u8
+
+#EXTINF:-1 group-title="Relax" tvg-logo="https://dvb.by/sources/logos/2301s.png",Живая природа
+http://cdn-lb.iptv2022.com/p/TyrJ6XEwqaAL841jayGt0g,1691851294/streaming/livenature/324/1/index.m3u8
+#EXTINF: -1 user-agent='WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer' group-title="Relax" tvg-logo="https://dvb.by/sources/logos/3453s.png",Наша Сибирь
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://dvb.by/sources/logos/3604s.png",Loupe TV
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://dvb.by/sources/logos/3784s.png",World
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Relax" tvg-logo="https://dvb.by/sources/logos/3071s.png",Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1  group-title="Relax"tvg-logo="https://images.vfl.ru/ii/1575904893/eed21be3/28855540.png",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
+
+#EXTINF:-1 group-title="Разные", Терра Инкогнита
+http://cdn-lb.iptv2022.com/p/UOWMtikO0BkxaT6nBUr9wQ,1672887131/streaming/terra/324/1/index.m3u8
+#EXTINF:-1 group-title="Разные" tvg-logo="https://dvb.by/sources/logos/1531s.png",Теледом ТВ HD
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 group-title="Разные" tvg-logo="https://dvb.by/sources/logos/3308s.png",Точка отрыва
+http://185.52.77.43:8080/TochkaOtriva/index.m3u8
+#EXTINF:-1 group-title="Разные" tvg-logo="https://dvb.by/sources/logos/1109s.png",Усадьба
+http://94.230.240.17:8080/usadba/index.m3u8
+#EXTINF:-1 group-title="Разные" tvg-logo="http://bezbe.my1.ru/logo/sts.png" tvg-id="sts-mir",Прима
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?version=3#parser
+#EXTINF:-1 group-title="Разные" tvg-logo="http://images.vfl.ru/ii/1645975634/cae24d09/38241866.jpg" ,Кулинар ТВ
+https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Разные",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Разные"tvg-logo="https://dvb.by/sources/logos/1116s.png",Сарафан
+https://cdn-cache01.voka.tv:443/live/84.m3u8
+#EXTINF:-1 group-title="Разные"tvg-logo="https://dvb.by/sources/logos/1130s.png",Психология 21
+https://cdn-cache01.voka.tv:443/live/109.m3u8
+#EXTINF:-1 group-title="Разные" tvg-logo="http://bezbe.my1.ru/poster/0/nsia.jpg", Луганск 24
+https://bit.ly/3myi9Gt?token=iptvplay_Social_test_rus_1.mЗu8
+
+#EXTINF:-1 group-title="Разные" ,НТВ-Право
+http://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 group-title="Разные" ,НТВ-Стиль
+http://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 group-title="Разные" ,RTG HD
+http://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 group-title="Разные" ,TLC 
+http://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://bezbe.my1.ru/logo/mtv.png"  tvg-id="muztv",Муз ТВ 
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=3#parser 
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2206s.png"group-title="Музыка", MTV
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/3292s.png",Жара Kids TV
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://bezbe.my1.ru/logo/mtv.png" ,Backus mus
+http://stream.backustv.ru/live/btv3/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1179s.png"group-title="Музыка",Радио Шансон (mp3)
+http://chanson.hostingradio.ru:8041/chanson64.mp3
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1179s.png"group-title="Музыка",Радио Шансон
+https://chanson-video.hostingradio.ru/hls/chansonabr/live_midq/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1179s.png"group-title="Музыка",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1179s.png"group-title="Музыка",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/52c3bad408630072069f687f19d02b78--shansontv--shansontv.sdp--chunklist.m3u8?hls_proxy_host=df9c4722fbc330a9fe753b5b3d02dda3
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1179s.png"group-title="Музыка",Шансон ТВ
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/22790294d68c29bb27272d21d713ac1b--shansontv--shansontv.sdp--chunklist.m3u8?hls_proxy_host=df9c4722fbc330a9fe753b5b3d02dda3
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2043s.png"group-title="Музыка",Новое Радио
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1637s.png"group-title="Музыка",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1637s.png"group-title="Музыка",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1637s.png"group-title="Музыка",Now 90's
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1637s.png"group-title="Музыка",TVRock
+https://stream1.servers.chd-tv.tk/chdtv-rock/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1540s.png"group-title="Музыка",NRJ Hits
+https://tv.ngroup.be/live/ngrp:nrj_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2620s.png"group-title="Музыка", ТНТ Music
+https://cdn-cache01.voka.tv:443/live/37.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://hdradio.xperi.com/wp-content/themes/hdradio/android-chrome-256x256.png",Радио Страна HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://dvb.by/sources/logos/1561s.png",1mus.com
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://dvb.by/sources/logos/1561s.png",1mus.com HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://dvb.by/sources/logos/1561s.png",1mus.com
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://dvb.by/sources/logos/1561s.png",1mus.com HD
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/2586s.png",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/3917s.png",Sonus
+http://www.sonus.fm:1935/public/stream_in/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/3620s.png",TechnoDance
+https://hls.goodgame.ru/hls/180509.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/3729s.png",V2Beat HD
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6839s.png"group-title="Музыка",Xite HD
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2044s.png"group-title="Музыка",Clubbing TV HD
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1235s.png"group-title="Музыка",Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1235s.png"group-title="Музыка",Retro Plus HD
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3546s.png"group-title="Фильмы",FAN
+http://94.230.240.17:80/fan/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3990s.png"group-title="Фильмы" ,Russian Extreme
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775797448-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3483s.png"group-title="Фильмы" ,Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://a775797544-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2453s.png"group-title="Фильмы",FilmBox
+http://94.230.240.17:8080/film_box/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы",Кинохит
+http://moobl.ru/hls/Kinohit.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы",Кинохит HD
+http://moobl.ru/hls/Kinohit_hd.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы", Киномикс
+http://moobl.ru/hls/Kinomix.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы", Киномикс HD
+http://moobl.ru/hls/Kinomix_HD.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы", Кинопремьера HD
+http://moobl.ru/hls/Kinopremyera_hd.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы",Киносемья
+http://moobl.ru/hls/Kinosemya.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы",Киносемья HD
+http://moobl.ru/hls/Kinosemya_hd.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы",Киносвидание
+http://moobl.ru/hls/Kinosvidanie.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы",Киносвидание HD
+http://moobl.ru/hls/Kinosvidanie_hd.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы",Индийское кино
+http://moobl.ru/hls/Indiyskoye_kino.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы",Киносерия
+http://moobl.ru/hls/Kinoseria.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы",Кинокомедия
+http://moobl.ru/hls/Kinokomediya.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы",Кинокомедия HD
+http://moobl.ru/hls/Kinokomediya_hd.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы",Родное Кино
+http://moobl.ru/hls/Rodnoe_kino.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы",Киноужас
+http://moobl.ru/hls/Kinouzhas.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png" group-title="Фильмы",Страшное HD
+http://158.101.214.187:8080/channel/42c15d29/index.m3u8?q=103bce48d8fe1dcdb5781d4d42123a60
+#EXTINF:-1 tvg-id="cinema-ru" group-title="Фильмы",Cinema
+http://176.74.80.162:8099/Cinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/6873s.png"group-title="Фильмы",Страх HD
+https://hls.goodgame.ru/hls/202127.m3u8
+
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1086s.png"group-title="Фильмы",Русский иллюзион
+http://82.209.197.187:8080/udp/239.0.100.220:1234
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/2876s.png"group-title="Фильмы",Русский Роман
+http://109.171.45.88:81/udp/239.54.5.87:1224
+#EXTINF:-1 tvg-id="pobeda" group-title="Фильмы", Победа
+http://moobl.ru/hls/Pobeda.m3u8
+#EXTINF:-1 group-title="Фильмы",Победа
+http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3616s.png"group-title="Фильмы" ,Победа HD
+http://217.107.34.114:8011/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.telekarta.tv/channels/348/Mosfilm_256.png"group-title="Фильмы",Мосфильм. Золотая коллекция
+http://176.74.80.162:8099/Mosfilm/index.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3562s.png"group-title="Фильмы",Индия
+https://tbs01-edge11.itdc.ge/zeetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/3562s.png"group-title="Фильмы",Индийское кино
+https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://dvb.by/sources/logos/1222s.png"group-title="Фильмы" ,БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://bezbe.my1.ru/poster/smot.png",Драма
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3524
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/poster/smot.png" group-title="Фильмы", Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/poster/smot.png" group-title="Фильмы", Мелодрамы HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/poster/smot.png" group-title="Фильмы", Расследование
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://bezbe.my1.ru/poster/smot.png" group-title="Фильмы", Расследование HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/index.m3u8
+
+#EXTINF:-1 group-title="Фильмы",НТВ-Сериал
+http://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 group-title="Фильмы",НТВ-Хит
+http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://smarttv.816club.net/wp-content/uploads/2021/03/favicon.png", Твоё ТВ HD
+http://84.38.180.145:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://bezbe.my1.ru/poster/tv.png",BACKUS TV orig
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://bezbe.my1.ru/poster/tv.png",BACKUSTV dark
+http://stream.backustv.ru/live/btv2/index.m3u8
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://i.imgur.com/YfQEflM.png",Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://dvb.by/sources/logos/3562s.png" ,Cinema Classic
+https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://dvb.by/sources/logos/3562s.png",AKUDJI TV 
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://dvb.by/sources/logos/3562s.png",ФАНТАСТИКА 
+https://hls.goodgame.ru/hls/187241.m3u8?|user-agent=rostik_tv
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://dvb.by/sources/logos/3562s.png",1+2 Int
+http://89.254.128.5:22280/1_2/mono.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://dvb.by/sources/logos/3562s.png",Film TV 
+http://hls.goodgame.ru/hls/163253.m3u8?|user-agent=rostik_tv
+#EXTINF:-1 tvg-id="" group-title="Фильмы" tvg-logo="https://i.ibb.co/L01G3Lj/EBy-BCZSQ17plk-VBHg-zr0-Ca-E0vl-ZVREajr-DUKVh-Hb-Fw7-T5-SRxovk-R5-Zq-Jf-G5d-Lp-Fff3-WDJQJGian-Zh1lys.jpg", MediaService Lorenz TV
+http://84.38.180.145:8080/Uhierjfk/index.m3u8
+#EXTINF:-1 tvg-logo="https://pchelp24.com/wp-content/uploads/images/05(1).png" group-title="Фильмы",Plan_B HD
+http://31.148.6.4:10236/index.m3u8
+#EXTINF:-1 tvg-logo="https://pchelp24.com/wp-content/uploads/images/05(1).png" group-title="Фильмы",VIP FAMILY
+https://tbs01-edge11.itdc.ge/tv5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pchelp24.com/wp-content/uploads/images/05(1).png" group-title="Фильмы", Твое ТВ Юмор HD
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8 
+#EXTINF:-1 tvg-logo="https://pchelp24.com/wp-content/uploads/images/05(1).png" group-title="Фильмы",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://skaz.tv/tvicon/788.png" ,Cobra TV Comedy
+http://158.101.194.132:8888/channel/nd9e872d/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://skaz.tv/tvicon/788.png" ,Cobra TV Detektiv
+http://158.101.194.132:8888/channel/42be81c2/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://skaz.tv/tvicon/788.png" ,Cobra TV Drama
+http://158.101.194.132:8888/channel/n3a2fa313/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://skaz.tv/tvicon/788.png" ,Cobra TV Melodrama
+http://158.101.194.132:8888/channel/n4b0b724e/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
+#EXTINF:-1 group-title="Фильмы" tvg-logo="http://skaz.tv/tvicon/788.png" ,Cobra TV Triller
+http://158.101.194.132:8888/channel/n1dfef8a2/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
