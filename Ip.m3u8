@@ -3,7 +3,7 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Основные",Первый канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+http://176.101.224.21:8080/udp/239.195.32.1:1234
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/984.png" group-title="Основные",Россия 1 HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/79.png" group-title="Основные",СТС
