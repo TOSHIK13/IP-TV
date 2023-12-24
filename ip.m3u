@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Общественные",НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="",6 ТВ горловка HD
 http://91.237.3.3:4022/udp/224.2.2.4:10000
 #EXTINF:-1 tvg-id="Channel43.ru",43 канал (720p)
@@ -170,8 +175,7 @@ https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="OstrosyuzhetnoyeHD.ru",Остросюжетное HD
 http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru",Первый канал
-https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
 #EXTINF:-1 tvg-id="",Первый Псковский
 https://live-1.otcnet.ru/pskov/playlist.m3u8
 #EXTINF:-1 tvg-id="PervyyPskovskiy.ru",Первый Псковский (540p) [Not 24/7]
