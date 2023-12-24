@@ -2,7 +2,7 @@
 
 
 #EXTVLCOPT:http-user-agent=Mozilla 5.0
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Основные",Первый канал
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/983.png" group-title="Основные",Первый канал1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=3#parser
 #EXTINF:-1 group-title="Общие" tvg-logo="http://bezbe.my1.ru/logo/1.png",Первый канал 
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
