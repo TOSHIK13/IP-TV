@@ -4,8 +4,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/162.png" group-title="Общественные",НТВ HD
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="",6 ТВ горловка HD
-http://91.237.3.3:4022/udp/224.2.2.4:10000
+
 #EXTINF:-1 tvg-id="Channel43.ru",43 канал (720p)
 http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="360.ru",360° (1080p) [Not 24/7]
